@@ -8,6 +8,4 @@ class ProductsService {
     Mono<Map> getProductDetails(String productId) {
 
     }
-
-    Closure getGetProductDetails() {}
 }
